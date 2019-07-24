@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.m \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTSurfacePresenterStub.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerObserverCoordinator.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/ios/Pods/Headers/Public/React-Core/React/RCTUIManagerUtils.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/macone/Desktop/ACV/acv-git/proj_wine_app/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h

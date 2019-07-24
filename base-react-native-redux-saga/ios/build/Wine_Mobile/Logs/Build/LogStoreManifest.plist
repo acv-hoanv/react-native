@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>31B69B8B-B72F-44DA-8BC7-85CA706438D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31B69B8B-B72F-44DA-8BC7-85CA706438D5.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wine_Mobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wine_Mobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Wine_Mobile with scheme Wine_Mobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>585630542.571329</real>
+			<key>timeStoppedRecording</key>
+			<real>585630543.71244597</real>
+			<key>title</key>
+			<string>Building workspace Wine_Mobile with scheme Wine_Mobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>31B69B8B-B72F-44DA-8BC7-85CA706438D5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
