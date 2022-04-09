@@ -13,7 +13,7 @@
     "i18n-js": "^3.3.0",
     "intl": "^1.2.5",
     "lodash": "^4.17.14",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.8.6",
     "react-native": "0.60.3",
     "react-native-calendars": "^1.200.0",
